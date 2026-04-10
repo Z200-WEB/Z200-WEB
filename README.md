@@ -6,7 +6,7 @@ Building intelligent, user-centered products through React × TypeScript × AI/L
 
 ## 🚀 About Me
 
-I'm an IT student based in Japan, passionate about building AI-powered products that solve real problems. I believe in **ownership-driven development** — I don't just write code, I identify real problems, design AI-integrated solutions, and ship complete products end-to-end.
+I'm an AI Engineer based in Japan, passionate about building AI-powered products that solve real problems. I believe in **ownership-driven development** — I don't just write code, I identify real problems, design AI-integrated solutions, and ship complete products end-to-end.
 
 - 🤖 AI-focused: LLM integration, RAG, Prompt Engineering, OpenAI / Gemini APIs
 - 🎯 Frontend: React, TypeScript, Vite, Tailwind CSS
