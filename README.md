@@ -51,7 +51,7 @@
 ---
 
 ### 🍽 SmartOrder Restaurant System
-> QR-based ordering system for restaurants
+> QR-based AI power ordering system for restaurants
 
 - Self-order system using QR codes  
 - PHP + MySQL + Docker  
