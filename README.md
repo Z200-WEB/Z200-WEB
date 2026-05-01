@@ -1,31 +1,49 @@
-# Zawe Zaw Htet — AI Engineer
+# Zawe Zaw Htet
 
-Building intelligent, user-centered products through React × TypeScript × AI/LLM.
+AI / Full-Stack Developer (Student, based in Japan)
 
----
+I build practical AI-powered web applications that solve real-world problems.  
+My focus is on creating simple, scalable, and user-friendly systems using modern technologies.
 
 ## 🚀 About Me
-
-I'm an AI Engineer based in Japan, passionate about building AI-powered products that solve real problems. I believe in **ownership-driven development** — I don't just write code, I identify real problems, design AI-integrated solutions, and ship complete products end-to-end.
-
-- 🤖 AI-focused: LLM integration, RAG, Prompt Engineering, OpenAI / Gemini APIs
-- 🎯 Frontend: React, TypeScript, Vite, Tailwind CSS
-- 🌏 Building products for Japanese users (JP/EN bilingual)
-- 🔧 From idea → architecture → deployment → iteration
-- ♿ Committed to accessibility and performance in every UI
-
----
+- Develop AI-integrated applications using LLMs (OpenAI, Gemini)
+- Experience in RAG, prompt engineering, and API integration
+- Build full-stack web apps with React, TypeScript, and Python
+- Focused on performance, usability, and clean UI/UX
+- Comfortable working in English and Japanese environments
 
 ## 🛠 Tech Stack
+Frontend: React, TypeScript, Next.js, Tailwind CSS  
+Backend: Python (FastAPI), PHP  
+AI/LLM: OpenAI API, Gemini API, RAG, LangChain  
+Database: MySQL, PostgreSQL  
+DevOps: Docker, Vercel, GitHub Actions  
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | TypeScript, JavaScript (ES2023), React 18, Next.js 14, Vite, Tailwind CSS |
-| **AI / LLM** | OpenAI GPT-4o, Google Gemini 2.5, RAG, Prompt Engineering, LangChain |
-| **Backend** | Python 3.11, FastAPI, Pydantic, PHP 8.2 |
-| **Testing** | Vitest, React Testing Library |
-| **Database** | MySQL, PostgreSQL, REST API |
-| **DevOps** | Docker, Railway, Vercel, GitHub Pages, GitHub Actions, CI/CD |
+## 🎯 Goal
+Seeking opportunities in Japan where I can contribute to building impactful AI products and continue growing as an engineer.
+# Zawe Zaw Htet
+
+AI / フルスタックエンジニア（学生・日本在住）
+
+実用的なAIを活用したWebアプリケーションの開発に取り組んでいます。  
+シンプルで使いやすく、スケーラブルなシステム設計を重視しています。
+
+## 🚀 自己紹介
+・LLM（OpenAI・Gemini）を活用したアプリ開発  
+・RAG、プロンプト設計、API連携の経験  
+・React / TypeScript / Python を用いたフルスタック開発  
+・パフォーマンスとUI/UXを意識した設計  
+・日本語・英語での開発環境に対応可能  
+
+## 🛠 技術スタック
+フロントエンド：React、TypeScript、Next.js、Tailwind CSS  
+バックエンド：Python（FastAPI）、PHP  
+AI：OpenAI API、Gemini API、RAG、LangChain  
+データベース：MySQL、PostgreSQL  
+インフラ：Docker、Vercel、GitHub Actions  
+
+## 🎯 目標
+日本でAIを活用したプロダクト開発に携わり、エンジニアとして成長できる環境を探しています。
 
 ---
 
@@ -34,23 +52,8 @@ I'm an AI Engineer based in Japan, passionate about building AI-powered products
 ### 🤖 [DocuChat AI](https://github.com/Z200-WEB/docuchat-ai)
 AI-powered PDF & document chat using **RAG + Gemini 2.5**. Upload any PDF and ask questions in natural language. Built with **Next.js 14, TypeScript, Tailwind CSS**.
 
-### 🎯 [TikTok AI Strategist](https://github.com/Z200-WEB/tiktok-ai-strategist)
-Chrome Extension + **Python FastAPI + OpenAI GPT-4o**. Automates TikTok analytics analysis and generates data-driven content strategies.
-
-### 🗂 [Team Task Board](https://github.com/Z200-WEB/team-task-board)
-Kintone-inspired team task management board built with **React + TypeScript + Vite**. Drag-and-drop, WCAG accessibility, Vitest unit tests, GitHub Actions CI/CD.
-
-### 📊 [CRM Dashboard](https://github.com/Z200-WEB/crm-dashboard-react)
-Salesforce-inspired CRM dashboard built with **React + Tailwind CSS**. Customer/lead management, opportunity tracking — designed for non-technical business users.
-
-### 🎮 [Clash Strategy — Real-Time Multiplayer](https://github.com/Z200-WEB/clash-strategy-multiplayer-game)
-Real-time 1v1 strategy game with **WebSocket**, server-authoritative architecture, Three.js rendering, and CI/CD via GitHub Actions.
-
 ### 🍽 [SmartOrder Restaurant System](https://github.com/Z200-WEB/smartorder-restaurant-system)
 QR code-based self-ordering system. **PHP 8.2 + MySQL + Docker**. Live deployed, bilingual (EN/JP).
-
-### 🛎 [Case Management System](https://github.com/Z200-WEB/case-management-system)
-Salesforce Service Cloud-inspired case management app. **React 18 + Vite + Tailwind CSS**. CRUD, filtering, priority/status tracking, bilingual (EN/JP).
 
 ---
 
