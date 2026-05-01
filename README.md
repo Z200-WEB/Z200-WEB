@@ -27,7 +27,7 @@
 `Python (FastAPI)` `PHP`
 
 ### 🧠 AI / LLM
-`OpenAI API` `Gemini API` `Claude API`　`RAG` `LangChain`
+`OpenAI API` `Gemini API` `Claude API``RAG` `LangChain`
 
 ### 🗄 Database
 `MySQL` `PostgreSQL`
